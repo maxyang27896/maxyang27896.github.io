@@ -80,7 +80,7 @@ highlight_name: true
 
 I am a PhD student at the [University of Bristol](https://www.bristol.ac.uk/) and [Bristol Robotics Laboratory](https://www.bristolroboticslab.com/), under the supervision of Prof. [David Barton](https://cityinthesky.co.uk/about-me/) and Prof. [Nathan Lepora](https://lepora.com/). My current research is on sim-to-real deep reinforcement learning for robot manipulation at the [Dexterous Robotics Group](https://www.bristolroboticslab.com/dexterous-robotics). My research interests lie in machine learning methods for robot perception and control. 
 
-Previously, I worked as a R&D Engineer at [Sagentia Innovation](https://www.sagentiainnovation.com/) where I developed software tools for various engineering consultancy projects. Before that, I obtained my MEng degree in Aeronatical Engineering at [Imperial College London](https://www.imperial.ac.uk/). My final year thesis was on the application of optimal control for cancer treatment. 
+Previously, I worked as a R&D Engineer at [Sagentia Innovation](https://www.sagentiainnovation.com/) where I developed software tools for various engineering consultancy projects. Before that, I obtained my MEng degree in Aeronautical Engineering at [Imperial College London](https://www.imperial.ac.uk/). My final year thesis was on the application of optimal control for cancer treatment. 
 {style="text-align: justify;"}
 
 <!-- I am a PhD student in Computer Science at Stanford AI Lab, generously supported by Stanford Graduate Fellowship as a Pierre and Christine Lamond Fellow.
